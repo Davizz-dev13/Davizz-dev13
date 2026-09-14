@@ -1,6 +1,6 @@
 # Hi, I'm David
 
-I build quantitative trading systems and enjoy low-level performance work.
+I enjoy building systems.
 
 - **sharpe-lab** - daily systematic signals, backtests with realistic costs and live paper trading
 - **liqscope** - crypto futures liquidations dashboard (hourly data, GitHub Actions + Pages)
