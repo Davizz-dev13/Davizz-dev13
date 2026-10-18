@@ -10,4 +10,3 @@ Recent performance work: cut daily signal-update latency ~190x (246 ms to 1.3 ms
 
 
 
-![My top languages](./language.svg)
