@@ -2,7 +2,7 @@
 
 I enjoy building systems.
 
-- **sharpe-lab** - daily systematic signals, backtests with realistic costs and live paper trading
+- **sharpe-lab** - Backtest of strategies, signal systems, compound interest, risk/benefit, efficient frontier and financial carefulness
 - **liqscope** - crypto futures liquidations dashboard (hourly data, GitHub Actions + Pages)
 - **m68k-microcode-eyes** - custom Motorola 68000 microcode, ~31% fewer clock cycles than the RISC-V reference
 
